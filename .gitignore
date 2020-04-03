@@ -1,2 +1,4 @@
 *.pickle
 hw1/.ipynb_checkpoints/*
+hw2/.ipynb_checkpoints/*
+hw2/data/*
